@@ -9,7 +9,7 @@
 *
 *	@date		25/10/2016
 *
-*	@author		Dorian B. Dressler (eeu436@bangor@ac.uk)
+*	@author		Dorian B. Dressler
 *
 *
 ********************************************************************************
