@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Programs/C++/computer vision/Assignments/ICP3038-Assignment1/CMakeLists.txt
+  CMake does not need to re-run because C:\Programs\C++\computer vision\Assignments\ICP3038-Assignment1\bin\CMakeFiles\generate.stamp is up-to-date.
+  Image.cpp
+C:\Programs\C++\computer vision\Assignments\ICP3038-Assignment1\src\Image.cpp(560): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Programs\C++\computer vision\Assignments\ICP3038-Assignment1\src\Image.cpp(696): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  test.cpp
+  Generating Code...
+  assignment1.vcxproj -> C:\Programs\C++\computer vision\Assignments\ICP3038-Assignment1\bin\Debug\assignment1.exe
